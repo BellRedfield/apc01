@@ -11,7 +11,7 @@
 
 int main(){  // função principal
   // 1. seu codigo aqui
-  //levantar meus ingredientes
+  //   levantar meus ingredientes
   // char, int, float
   // variaveis
   //leitura 
